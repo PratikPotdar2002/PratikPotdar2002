@@ -1,5 +1,5 @@
-<p> align="center">
-# Hi there I'm **Pratik Potdar**👋
+<palign="center">
+Hi there I'm **Pratik Potdar**👋 
 </p>
 
 • 🔭 I’m currently working on **Web Developement** </br>
