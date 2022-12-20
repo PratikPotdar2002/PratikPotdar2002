@@ -1,6 +1,6 @@
-<p align="center">
+<h1><p align="center">
 Hi there I'm **Pratik Potdar**👋 
-</p>
+</p></h1>
 
 • 🔭 I’m currently working on **Web Developement** </br>
 • 🌱 I’m currently pursuing  bachelor in **Computer Engineering** </br>
