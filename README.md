@@ -1,4 +1,4 @@
-<palign="center">
+<p align="center">
 Hi there I'm **Pratik Potdar**👋 
 </p>
 
