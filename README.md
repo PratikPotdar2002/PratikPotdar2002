@@ -1,5 +1,5 @@
 <h1><p align="center">
-Hi there I'm **Pratik Potdar**👋 
+Hi there I'm Pratik Potdar👋 
 </p></h1>
 
 • 🔭 I’m currently working on **Web Developement** </br>
